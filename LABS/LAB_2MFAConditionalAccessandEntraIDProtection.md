@@ -53,15 +53,31 @@ Total number of employees= 10. 6 employees, 2 manager, 1 central manager, 1 IT e
 
 ## Creating Users and Groups since we already created a Tenant
 
-### I created a User central group and managers central group.
-### In the Users central group there are 6 employees. 
-### In the Managers central group there are 2 Managers.
+#### I created a User central group and managers central group.
+#### In the Users central group there are 6 employees. 
+#### In the Managers central group there are 2 Managers.
 
-#### The user central group is controlled by the two Managers.
+##### The user central group is controlled by the two Managers.
+
+##### The Central manager has control over the Managers central group.
+##### The IT department has control over all groups and users.
+
+![ ](Assets/creat.png)
+
+
+![ ](Assets/userscreated.png)
+
+##### The user central group is controlled by the two Managers.
+
+![ ](Assets/ucg.png)
+
+#### In the Managers central group there are 2 Managers.
+
+![ ](Assets/mcg.png)
 
 #### The Central manager has control over the Managers central group.
-#### The IT department has control over all groups and users.
 
+![ ](Assets/topcontrol.png)
 
 
 
