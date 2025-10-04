@@ -20,11 +20,17 @@ In this lab i did the following:
 #### Linux Deployment
 
 ### After careful deployment process i can now SSH into my Vero Linux and Vero Windows
+
 > This is because i activated the ssh port 22. The rdp port is also active for Windows
+>
+
 ![ ](Assets/linux.png)
 
 #### Windows Deployment
+
 > I also deployed Windows VM for Vero
+
+
 ![ ](Assets/windows.png)
 
 ## Linux SSH Confirmed 
