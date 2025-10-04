@@ -9,7 +9,7 @@
 
 In this lab i did the following: 
 
-- Deployed an Azure VM by using an Azure Resource Manager template.
+- Deployed two Azure VM's Linux and Windows
 - Implemented Azure MFA
 - Implemented Microsoft Entra ID Conditional Access Policies 
 - Implemented Microsoft Entra ID Identity Protection
@@ -17,9 +17,17 @@ In this lab i did the following:
 # Deploying Vero Linux and Vero Windows Virtual Machines
 
 
-## Linux Deployment
+#### Linux Deployment
 
 ### After careful deployment process i can now SSH into my Vero Linux and Vero Windows
 > This is because i activated the ssh port 22. The rdp port is also active for Windows
+![ ](Assets/linux.png)
 
+#### Windows Deployment
+> I also deployed Windows VM for Vero
+![ ](Assets/windows.png)
+
+Linux SSH Confirmed 
+
+Windows SSH confirmed
 
