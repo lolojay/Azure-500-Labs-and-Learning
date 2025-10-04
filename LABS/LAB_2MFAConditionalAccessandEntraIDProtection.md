@@ -27,9 +27,13 @@ In this lab i did the following:
 > I also deployed Windows VM for Vero
 ![ ](Assets/windows.png)
 
-Linux SSH Confirmed 
-![ ](Assets/verolinux)
+## Linux SSH Confirmed 
 
-Windows SSH confirmed
-![ ](Assets/verowindows)
+
+![ ](Assets/verolinux.png)
+
+## Windows SSH confirmed
+
+
+![ ](Assets/verowindows.png)
 
