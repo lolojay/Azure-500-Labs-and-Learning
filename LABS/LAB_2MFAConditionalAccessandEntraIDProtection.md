@@ -28,7 +28,8 @@ In this lab i did the following:
 ![ ](Assets/windows.png)
 
 Linux SSH Confirmed 
-
+![ ](Assets/verolinux)
 
 Windows SSH confirmed
+![ ](Assets/verowindows)
 
