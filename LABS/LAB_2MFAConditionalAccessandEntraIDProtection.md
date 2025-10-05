@@ -81,10 +81,15 @@ Total number of employees= 10. 6 employees, 2 manager, 1 central manager, 1 IT e
 
 # Configuring Azure MFA 
 
+###  Selecting the Authentication Method
+
 ![ ](Assets/MFA1.png)
+
+### Setup to target all users
 
 ![ ](Assets/MFA2.png)
 
+### Including OTP 
 
 ![ ](Assets/MFA3.png)
 
