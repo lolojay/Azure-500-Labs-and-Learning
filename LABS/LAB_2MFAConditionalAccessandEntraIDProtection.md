@@ -81,10 +81,10 @@ Total number of employees= 10. 6 employees, 2 manager, 1 central manager, 1 IT e
 
 # Configuring Azure MFA 
 
-![ ](Assets/MFA1)
+![ ](Assets/MFA1.png)
 
-![ ](Assets/MFA2)
+![ ](Assets/MFA2.png)
 
 
-![ ](Assets/MFA3)
+![ ](Assets/MFA3.png)
 
