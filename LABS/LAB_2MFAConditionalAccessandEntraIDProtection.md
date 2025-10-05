@@ -119,6 +119,6 @@ Total number of employees= 10. 6 employees, 2 manager, 1 central manager, 1 IT e
 
 ![ ](Assets/09p.png)
 
-## Simulate risk events against the Microsoft Entra ID Identity Protection policies
+
 
 
