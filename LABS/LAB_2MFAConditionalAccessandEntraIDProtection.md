@@ -93,3 +93,32 @@ Total number of employees= 10. 6 employees, 2 manager, 1 central manager, 1 IT e
 
 ![ ](Assets/MFA3.png)
 
+
+
+# Implement Microsoft Entra ID Conditional Access Policies
+
+#### Creating policy for users 
+
+##### Step By Step Guide.
+
+![ ](Assets/01p.png)
+
+![ ](Assets/02p.png)
+
+![ ](Assets/03p.png)
+
+![ ](Assets/04p.png)
+
+![ ](Assets/05p.png)
+
+![ ](Assets/06p.png)
+
+![ ](Assets/07p.png)
+
+![ ](Assets/08p.png)
+
+![ ](Assets/09p.png)
+
+## Simulate risk events against the Microsoft Entra ID Identity Protection policies
+
+
