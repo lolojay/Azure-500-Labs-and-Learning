@@ -51,21 +51,21 @@ The specific requirements are:
 > Here i will configure Entra ID roles and also review the PIM alerts.
 >
 
- Creating an Access review
+ #### Creating an Access review
 
 ![ ](Assets/1nga.png)
 
-Viewing audit logs that involves the User1
+#### Viewing audit logs that involves the User1
 
 
 ![ ](Assets/2nga.png)
 
-Giving reasons to deny access
+#### Giving reasons to deny access
 
 
 ![ ](Assets/3nga.png)
 
-Viewing decisions in General Overview
+#### Viewing decisions in General Overview
 
 
 ![ ](Assets/4nga.png)
@@ -83,7 +83,7 @@ Viewing decisions in General Overview
 ![ ](Assets/r2.png)
 
 
-#### retrieving detailed information, including Time, Requestor,
+#### Retrieving detailed information, including Time, Requestor,
 #### Action, Resource name, Scope, Primary Target and Subject.
 
 
