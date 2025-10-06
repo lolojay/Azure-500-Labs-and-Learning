@@ -1,7 +1,7 @@
 ---
 LAB:
     Title: 'Microsoft Entra Privileged Identity Management'
-    Todo: 'Manage Identity and Access'
+    To do: 'Manage Identity and Access'
 ---
 
 ## Scenario
